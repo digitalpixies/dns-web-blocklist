@@ -1,0 +1,31 @@
+{
+  "name": "dns-web-blocklist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitalpixies/dns-web-blocklist.git"
+  },
+  "keywords": [
+    "dnsmasq",
+    "blacklist",
+    "spam",
+    "advertisement",
+    "malware",
+    "trackers"
+  ],
+  "author": "rhuie@digitalpixies.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/digitalpixies/dns-web-blocklist/issues"
+  },
+  "homepage": "https://github.com/digitalpixies/dns-web-blocklist#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.2"
+  }
+}
