@@ -7,9 +7,9 @@ const fs = require('fs');
 
 const blacklistToUse = [
     //'other',
-    'suspicious', 
-    'advertising', 
-    'tracking', 
+    'suspicious',
+    'advertising',
+    'tracking',
     'malicious'];
 
 const ListToBeMergedIntoBlacklist = (classNames) => {
