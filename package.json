@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/digitalpixies/dns-web-blocklist#readme",
   "dependencies": {
-    "axios": "^1.10.0",
+    "axios": "^1.11.0",
     "cheerio": "*"
   }
 }
